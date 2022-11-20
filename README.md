@@ -2,7 +2,7 @@
 
 Esse repositório armazena os trabalhos desenvolvidos pelos alunos da Ilum Escola de Ciência do CNPEM:
 
-Marina Barim do Nascimento
+Marina Barim do Nascimento e
 João Guilherme dos Santos Caramês
 
 No âmbito da prática laboratorial e iniciação científica na Ilum, a dupla desenvolveu dois artigos para
